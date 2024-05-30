@@ -66,11 +66,13 @@ I was inspired by Ruiting's writing about the beauty and serenity of the natural
 - Published webpage for stage 4: **https://taropie3sui.github.io/exquisite-corpse-stage-4/**
 
 **Overview**
+
 I thoroughly enjoy looking at the screen filled with green leaves and roses, inspired by Kike's development of the code "Hypothetical Year." This inspiration led me to create a game about plants. I am a plant lover, although I’m not great at taking care of them. However, by developing a digital game, I can sidestep all the external factors that typically affect plant growth. I began by creating all the images I would use in this game, utilizing the ‘Procreate’ app on my iPad to craft pixel-style images for the background and plant elements.
 
 During the process of this stage, I became aware of the requirements of the 'different pathways' requirements. I consulted ChatGPT on how to integrate these various routes into coding. After establishing the different stages within the game, I incorporated text to guide players through these stages. The game features three possible endings: two are happy, and one is not as fortunate.
 
 **Reflection:**
+
 Overall, I’m extremely proud of the game and its final outcome. Nevertheless, I see potential for further development by adding more images and thus more possible pathways to enhance gameplay. Real-life plant care is considerably more challenging than in the game; adding more random events and unexpected elements could make the game more engaging and surprising for players. Observing other students’ work, I noticed some innovative uses of font styles and animations, which I aspire to incorporate into my own future projects.
 
 ### 🟪 Stage 5
