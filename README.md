@@ -63,7 +63,7 @@ I was inspired by Ruiting's writing about the beauty and serenity of the natural
 ### 🟦 Stage 4
 - Name/Alias: **Grace An/ Taropie3sui**
 - Github account: **https://github.com/Taropie3sui**
-- Published webpage for stage 4:
+- Published webpage for stage 4: **https://taropie3sui.github.io/exquisite-corpse-stage-4/**
 
 *... comments to be added here*
 
